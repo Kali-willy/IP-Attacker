@@ -13,7 +13,7 @@ How to install IP-Tracer ?
 
     apt install git -y
 
-    git clone https://github.com/Kali-willy/Kali-willy./IP-Tracer.git
+    git clone https://github.com/Kali-willy/IP-Attacker.git
 
     cd IP-Tracer
 
